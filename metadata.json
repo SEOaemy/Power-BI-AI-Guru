@@ -1,0 +1,5 @@
+{
+  "name": "Power BI Dashboard Dev Guru Assistant",
+  "description": "An AI-powered assistant to help users create professional Power BI dashboards by generating DAX formulas from natural language.",
+  "requestFramePermissions": []
+}
